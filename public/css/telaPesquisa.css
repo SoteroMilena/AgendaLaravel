@@ -1,0 +1,85 @@
+.mae {
+
+    box-shadow: 1px 1px 1px paleturquoise;
+    border-radius: 3px;
+    display: flex;
+    width: 56rem;
+    position: absolute;
+    top: 60px;
+    left: 17rem;
+    border-radius: 2px;
+}
+.img1 {
+    background-color: #5a53fe;
+    width: 35rem;
+    height: 34rem;
+}
+.text h1 {
+    text-align: center;
+    color: blue;
+    align-items: center;
+    padding: 6px;
+    position: relative;
+    left: 0rem;
+    top: 9%;
+    font-size: 2rem;
+}
+img {
+    position: relative;
+    right: 0rem;
+    width: 18rem;
+    top: 2rem;
+    padding: 5rem;
+}
+.text {
+    width: 90rem;
+    height: 20rem;
+    width: 90rem;
+}
+.text form {
+    text-align: center;
+}
+.text form input {
+    position: relative;
+    left: 1rem;
+    top: 4rem;
+    width: 19.6875rem;
+    height: 2.9375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #5a53fe;
+    border: none;
+}
+.text form ::placeholder {
+    color: white;
+}
+button {
+    position: relative;
+    left: 38rem;
+    width: 8.9375rem;
+    height: 2.5rem;
+    flex-shrink: 0;
+    border-radius: 0.8125rem;
+    background: #5a53fe;
+    border: none;
+    position: absolute;
+    top: 42%;
+    color: white;
+}
+.caixinha{
+    display: flex;
+    margin-top: 35%;
+    width: 76%;
+    padding: 3%;
+    margin-left: 10%;
+    color: #5a53fe;
+    background-color: rgba(250, 235, 215, 0.559);
+    border-radius: 2px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+

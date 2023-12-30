@@ -1,0 +1,25 @@
+.mae {
+    box-shadow: 1px 1px 1px paleturquoise;
+    border-radius: 3px;
+    display: flex;
+    width: 56rem;
+    position: absolute;
+    top: 60px;
+    left: 17rem;
+    border-radius: 2px;
+}
+.img1 {
+    background-color: #5a53fe;
+    width: 23rem;
+    height: 13rem;
+}
+.text h1 {
+    text-align: center;
+    color: blue;
+    align-items: center;
+    padding: 6px;
+    position: relative;
+    left: 0rem;
+    top: 9%;
+    font-size: 2rem;
+}

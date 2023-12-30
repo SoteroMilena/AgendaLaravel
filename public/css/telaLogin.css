@@ -1,0 +1,147 @@
+.mae {
+    box-shadow: 1px 1px 1px paleturquoise;
+    border-radius: 3px;
+    display: flex;
+    box-shadow: 1px 2px 1px;
+    border-radius: 3px;
+    width: 56rem;
+    position: absolute;
+    top: 60px;
+    left: 21rem;
+}
+.img1 {
+    background-color: #5a53fe;
+    width: 35rem;
+    height: 34rem;
+}
+img {
+    position: relative;
+    right: 0rem;
+    width: 18rem;
+    top: 2rem;
+    padding: 5rem;
+}
+.text {
+    width: 90rem;
+    height: 20rem;
+}
+.presente {
+    margin-top: -19%;
+    width: 25%;
+    margin-left: 15%;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+/*.botao{
+    margin-left: 15%;
+    width: 110rem;
+    height: 2.9375rem;
+    flex-shrink: 0;
+    border-radius: 0.6875rem;
+    background: #5a53fe;
+    border: none;
+    color: white;
+}*/
+.botao {
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #5a53fe;
+    color: #5a53fe;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-left: 32%;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  .botao1 {
+    display: inline-block;
+    padding: 10px 37px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #5a53fe;
+    color: #5a53fe;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-left: 32%;
+    transition: background-color 0.3s, color 0
+  }
+
+  @media only screen and (max-width: 820px) {
+    .mae {
+        box-shadow: 1px 1px 1px paleturquoise;
+        border-radius: 3px;
+        display: flex;
+        width: 10%;
+        position: absolute;
+        top: 60px;
+        left: 2rem;
+        border-radius: 2px;
+    }
+}
+
+@media only screen and (max-width: 796px) {
+
+    .presente {
+        margin-top: -19%;
+        width: 25%;
+        margin-left: 18%;
+    }
+
+ }
+
+ @media only screen and (max-width: 948px) {
+    .mae {
+        box-shadow: 1px 1px 1px paleturquoise;
+        border-radius: 3px;
+        display: flex;
+        box-shadow: 1px 2px 1px;
+        border-radius: 3px;
+        width: 56rem;
+        position: absolute;
+        top: 60px;
+        left: 2%;
+    }
+ }
+@media only screen and (max-width: 546px) {
+    .mae {
+        box-shadow: 1px 1px 1px paleturquoise;
+        border-radius: 3px;
+        display: flex;
+        width: 6px;
+        position: absolute;
+        top: 60px;
+        left: 12rem;
+        border-radius: 2px;
+    }
+}
+
+@media only screen and (max-width: 771px) {
+    .mae {
+        box-shadow: 1px 1px 1px paleturquoise;
+        border-radius: 3px;
+        display: flex;
+        width: 6px;
+        position: absolute;
+        top: 60px;
+        left: 3rem;
+        border-radius: 2px;
+    }
+    .presente{
+        width: 70%;
+    }
+
+}
+
+
+
+
+
